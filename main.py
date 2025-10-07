@@ -6,4 +6,4 @@ if __name__ == '__main__':
     print("hi, git!")
     print("Serbus")
     print("acuma merge")
-
+    print("nu inteleg :)")
